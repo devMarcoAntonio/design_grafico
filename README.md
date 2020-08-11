@@ -1,4 +1,4 @@
-# Projeto de Design gráfico em power point
+# Projeto de Design Digital em power point
 
 <h1><img src="https://github.com/devMarcoAntonio/design_grafico/blob/master/design.gif"></h1>
 
